@@ -33,6 +33,10 @@ class MainActivity : AppCompatActivity() {
                  binding.pager.currentItem = 0
                     true
                 }
+
+
+
+
                 R.id.call_test -> {
                     binding.pager.currentItem = 1
                     true
